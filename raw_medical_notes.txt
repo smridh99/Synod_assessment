@@ -1,0 +1,108 @@
+[
+    {
+        "patient_id": "001",
+        "name": "Alice Johnson",
+        "dob": "1992-03-14",
+        "age": "Thirty-Two",
+        "gender": "FEMALE",
+        "symptoms": [
+            "headache",
+            "Nausea",
+            null,
+            "Blurred Vision"
+        ],
+        "diagnosis": "Migraine",
+        "medications": [
+            "sumatriptan",
+            "ibuprofen ",
+            null,
+            "  Naproxen"
+        ],
+        "timestamp": "2024/02/09 15:45",
+        "doctor": "Dr. Smith",
+        "email": "alicej@example.com",
+        "phone": "+1 (555) 987-6543",
+        "notes": "Patient reported severe pain in head and sensitivity to light."
+    },
+    {
+        "patient_id": "002",
+        "name": "Bob Williams",
+        "dob": "1987-07-29",
+        "age": 37,
+        "gender": "male",
+        "symptoms": "fever, cough, body ache",
+        "diagnosis": null,
+        "medications": [
+            "  Tylenol",
+            " amoxicillin ",
+            "ibuprofen"
+        ],
+        "timestamp": "09-02-2024 9:30 AM",
+        "doctor": "Dr. Adams",
+        "address": "123 Maple St, Toronto, ON",
+        "notes": "Patient has persistent fever for the past 3 days, advised rest."
+    },
+    {
+        "patient_id": "003",
+        "name": "Charlie O'Connor",
+        "dob": "05-15-1995",
+        "age": "29",
+        "gender": "M",
+        "symptoms": [
+            "fatigue",
+            "joint pain",
+            "low appetite"
+        ],
+        "diagnosis": "Rheumatoid arthritis",
+        "medications": [
+            "methotrexate",
+            " prednisone",
+            null
+        ],
+        "timestamp": "February 9, 2024, 17:20",
+        "doctor": "Dr. Miller",
+        "email": "charlieoc@example.com",
+        "phone": "555-777-1234",
+        "notes": "complained about stiffness in joints and lack of energy"
+    },
+    {
+        "patient_id": "004",
+        "name": null,
+        "dob": "Unknown",
+        "age": null,
+        "gender": "Female",
+        "symptoms": [
+            "sore throat",
+            "Cough",
+            "sore throat"
+        ],
+        "diagnosis": "Strep throat",
+        "medications": [
+            "penicillin",
+            " ",
+            "azithromycin"
+        ],
+        "timestamp": "02/09/2024 12:00 PM",
+        "doctor": "Dr. Brown",
+        "phone": "None",
+        "notes": "Patient experiencing throat pain for several days."
+    },
+    {
+        "patient_id": "005",
+        "name": "David Patel",
+        "dob": "1991-06-21",
+        "age": "Thirty-three",
+        "gender": "Male",
+        "symptoms": "shortness of breath, dizziness, fatigue",
+        "diagnosis": "Anemia",
+        "medications": [
+            "iron supplements",
+            null,
+            "folic acid"
+        ],
+        "timestamp": "2024-09-02T20:10:00",
+        "doctor": "Dr. White",
+        "email": "davidp@hospital.com",
+        "notes": "reported frequent dizziness, low energy, recommended dietary changes"
+    }
+]
