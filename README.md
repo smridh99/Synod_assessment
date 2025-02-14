@@ -3,6 +3,7 @@
 
 ## Overview
 This repository contains files and resources related to my interview assessment submission. It includes:
+- **Assessment.pdf**: PDF containing solutions to the Data Analyst assessment
 - **Hospital_Dataset**: Sample dataset which was used to build sql query
 - **synod-pythonfunction**: ipynb file  containing the entire python function along with testing information
 - **raw_medical_notes(s)**: Unstructured raw data for medical records - used for the python function.
