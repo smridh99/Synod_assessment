@@ -1,5 +1,5 @@
 # Synod_assessment
-Interview Assessment Submission
+
 
 ## Overview
 This repository contains files and resources related to my interview assessment submission. It includes:
